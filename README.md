@@ -1,2 +1,2 @@
-# machine-learning-Matlab
-Some different machine learning projects in Matlab (some where part of university labs).
+# Machine learning in Matlab
+Some different machine learning projects in Matlab (some were part of university labs).
